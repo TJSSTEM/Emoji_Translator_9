@@ -77,7 +77,7 @@ translated_words = []
 # This is where the main logic happens!
 
 if "secret" in user_input.():
-      st.write("YOU FOUND THE SECRET!!!
+      st.write("YOU FOUND THE SECRET!!!")
 7. LOOP THROUGH ALL THE WORDS ---
 # This 'for' loop looks at each 'word' in our 'words' list, one by one.
 for word in words:
