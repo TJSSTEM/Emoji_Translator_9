@@ -28,16 +28,16 @@ with st.expander("👉 How to use this app"):
 # Don't forget the comma after each line!
 #
 EMOJI_DICT = {
-    "love": "❤️",
-    "happy": "😊",
-    "sad": "😢",
-    "cat": "🐱",
-    "dog": "🐶",
-    "sun": "☀️",
-    "coding": "💻",
-    "win": "🏆",
-    "python": "🐍",
-    "fire": "🔥"
+    "love": "🫄🏽",
+    "happy": "👰🏼‍♂️",
+    "sad": "🧚🏽‍♂️",
+    "cat": "👰🏽‍♂️",
+    "dog": "💃🏿",
+    "sun": "👨🏿‍🦲",
+    "coding": "🙇🏿",
+    "win": "👨🏿‍🦽",
+    "python": "🍆",
+
     # Students can add more!
 }
 
