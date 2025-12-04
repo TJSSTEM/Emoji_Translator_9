@@ -6,7 +6,7 @@ import random
 
 # --- 2. SET UP THE APP'S TITLE ---
 # This command draws the main title on our web page.
-st.title("My Emoji Translator 💬➡️😎")
+st.title("Depressing Emoji Translator")
 
 # --- NEW: Instructions Section ---
 with st.expander("👉 How to use this app"):
@@ -62,7 +62,7 @@ st.markdown("---")  # Adds a horizontal line
 # The text inside the parentheses is the 'prompt' the user will see.
 # We store whatever the user types in a variable called `user_input`.
 #
-user_input = st.text_input("Enter your text to translate:")
+user_input = st.text_input("type a fun story about your dog and cat being chased by a python")
 
 # --- 6. "TRANSLATE" THE TEXT ---
 # This is where the main logic happens!
@@ -75,7 +75,10 @@ words = user_input.lower().split()
 # We create a new, empty list to store our translated words.
 translated_words = []
 
-# --- 7. LOOP THROUGH ALL THE WORDS ---
+# ---
+if "secret" in user_input.():
+      st.write("YOU FOUND THE SECRET!!!
+7. LOOP THROUGH ALL THE WORDS ---
 # This 'for' loop looks at each 'word' in our 'words' list, one by one.
 for word in words:
     # Use .get() to find the word in our dictionary.
