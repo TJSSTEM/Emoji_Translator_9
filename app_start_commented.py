@@ -42,7 +42,7 @@ EMOJI_DICT = {
 }
 
 # ------------------------------------
-
+"cool": random choice(["😎","🤙","🆒"]),
 # --- 4. (Helper) SHOW THE "MAGIC WORDS" ---
 # This isn't part of the challenge. This code just
 # joins all the 'keys' (words) from our dictionary and
@@ -74,8 +74,8 @@ words = user_input.lower().split()
 
 # We create a new, empty list to store our translated words.
 translated_words = []
+# This is where the main logic happens!
 
-# ---
 if "secret" in user_input.():
       st.write("YOU FOUND THE SECRET!!!
 7. LOOP THROUGH ALL THE WORDS ---
