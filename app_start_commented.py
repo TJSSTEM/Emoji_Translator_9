@@ -42,7 +42,7 @@ EMOJI_DICT = {
 }
 
 # ------------------------------------
-"cool": random.choice(["😎","🤙","🆒"]),
+"cool":random.choice(["😎","🤙","🆒"]),
 # --- 4. (Helper) SHOW THE "MAGIC WORDS" ---
 # This isn't part of the challenge. This code just
 # joins all the 'keys' (words) from our dictionary and
