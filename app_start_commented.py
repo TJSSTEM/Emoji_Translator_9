@@ -74,11 +74,11 @@ EMOJI_DICT = {
     "win": "🏆",
     "python": "🐍",
     "fire": "🔥",
-    "gay" : "🏳️‍🌈",
 
 
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
-
+   "gay" : "🏳️‍🌈",
+    "goober" : "👾",
 
 
 }
@@ -101,12 +101,12 @@ st.markdown("---")
 
 user_input = st.text_input(
     "Enter your text to translate:",
-    placeholder="Example: I love coding with my cat"
+    placeholder="Example: I love coding with my cat Jerry"
 )
 
 
 # ============================================================
-# 🤖 THE TRANSLATOR
+# 🤖 THE TRANSLATOR OF WORDS
 # ============================================================
 # You don't need to change this part.
 # This is where Python does the translating!
@@ -137,8 +137,7 @@ output_sentence = " ".join(translated_words)
 
 if output_sentence:
 
-    st.subheader("😎 Your Emoji Sentence")
-
+    st.subheader("😎 Your Emoji Sentence [it's so cool!])
     st.success(output_sentence)
 
 
