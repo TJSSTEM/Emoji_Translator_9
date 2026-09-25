@@ -97,7 +97,7 @@ EMOJI_DICT = {
     "sick":"🤒",
     "nerd":"🤓",
     "bored":"🥱",
-    "cheese":"🧀"
+    "cheese":"🧀",
     "good":"👍"
 }
 
