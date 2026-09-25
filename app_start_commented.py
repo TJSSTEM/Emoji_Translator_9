@@ -84,6 +84,7 @@ EMOJI_DICT = {
     "Dababy" : "🚼",
     "dolla $ign" : "💲",
     "eggplant" : "🍆",
+    "saturn" : "🪐"
 
 }
 
