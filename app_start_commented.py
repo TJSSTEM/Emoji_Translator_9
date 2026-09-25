@@ -74,6 +74,8 @@ EMOJI_DICT = {
     "win": "🏆",
     "python": "🐍",
     "fire": "🔥",
+    "gay" : "🏳️‍🌈",
+
 
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
 
