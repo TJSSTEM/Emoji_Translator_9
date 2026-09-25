@@ -90,6 +90,7 @@ EMOJI_DICT = {
     "train" : "🚂",
     "Satelite" : "🛰",
     "parrot" : "🦜",
+    "bee" : "🐝",
 
 
 
