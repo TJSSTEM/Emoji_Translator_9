@@ -91,11 +91,14 @@ EMOJI_DICT = {
     "Satelite" : "🛰",
     "parrot" : "🦜",
     "bee" : "🐝",
+    "trans" : "🏳️‍⚧️",
+    "onigiri" : "🍙",
 
 
 
 }
 
+# lynn redmond was here
 
 # ============================================================
 # ✨ SHOW OUR MAGIC WORDS
