@@ -96,7 +96,9 @@ EMOJI_DICT = {
     "man":"🫃",
     "sick":"🤒",
     "nerd":"🤓",
-    "bored":"🥱"
+    "bored":"🥱",
+    "cheese":"🧀"
+    "good":"👍"
 }
 
 # lynn redmond was here
