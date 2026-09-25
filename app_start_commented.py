@@ -17,11 +17,11 @@ import streamlit as st
 # - Writing your own welcome message
 
 
-st.title("My Emoji Translator 💬➡️👻")
+st.title("Austin's Emoji Translator, TEXT➡️💬")
 
-st.write("Turn your words into emojis! 😑")
+st.write("Turn sentences into emojis! 😁")
 
-st.info("💡 Try typing: I love coding with python and my parrot")
+st.info("💡 Try typing a sentence into the box")
 
 
 # ============================================================
@@ -93,9 +93,10 @@ EMOJI_DICT = {
     "bee" : "🐝",
     "trans" : "🏳️‍⚧️",
     "onigiri" : "🍙",
-
-
-
+    "man":"🫃",
+    "sick":"🤒",
+    "nerd":"🤓",
+    "bored":"🥱"
 }
 
 # lynn redmond was here
@@ -170,7 +171,7 @@ if output_sentence:
 # st.rain()
 #
 # Which one do you like better? 🎈❄️
-
+st.snow()
 
 # ============================================================
 # 🏆 BONUS DESIGN CHALLENGE
