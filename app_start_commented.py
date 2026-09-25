@@ -100,6 +100,7 @@ EMOJI_DICT = {
     "cheese":"🧀",
     "good":"👍",
     ":d":"😀"
+    "eat":"🍴"
 }
 
 # lynn redmond was here
