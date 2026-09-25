@@ -79,7 +79,10 @@ EMOJI_DICT = {
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
    "gay" : "🏳️‍🌈",
     "goober" : "👾",
-
+"curry-rice" : "🍛",
+    "star" : "✡️",
+    "Dababy" : "🚼",
+    "dolla $ign" : "💲",
 
 }
 
