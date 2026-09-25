@@ -19,7 +19,7 @@ import streamlit as st
 
 st.title("My Emoji Translator 💬➡️👻")
 
-st.write("Turn your words into emojis! 🚀")
+st.write("Turn your words into emojis! 😑")
 
 st.info("💡 Try typing: I love coding with python and my parrot")
 
