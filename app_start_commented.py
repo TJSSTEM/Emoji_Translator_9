@@ -137,7 +137,7 @@ output_sentence = " ".join(translated_words)
 
 if output_sentence:
 
-    st.subheader("😎 Your Emoji Sentence wowie!)
+    st.subheader("😎 Your Emoji Sentence wowie!")
     st.success(output_sentence)
 
 
