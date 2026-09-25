@@ -137,7 +137,7 @@ output_sentence = " ".join(translated_words)
 
 if output_sentence:
 
-    st.subheader("😎 Your Emoji Sentence [it's so cool!])
+    st.subheader("😎 Your Emoji Sentence wowie!)
     st.success(output_sentence)
 
 
@@ -149,7 +149,7 @@ if output_sentence:
 #
 # Remove the # from ONE of them and run your app!
 #
-# st.balloons()
+st.balloons()
 #
 # st.snow()
 #
