@@ -139,7 +139,7 @@ if output_sentence:
 
     st.subheader("😎 Your Emoji Sentence wowie!")
     st.success(output_sentence)
-
+    st.subheader("hi there!")
 
 # ============================================================
 # 🎉 CHALLENGE 3: ADD A SURPRISE!
@@ -149,9 +149,9 @@ if output_sentence:
 #
 # Remove the # from ONE of them and run your app!
 #
-# st.balloons()
+st.balloons()
 #
-st.snow()
+# st.snow()
 #
 # Which one do you like better? 🎈❄️
 
